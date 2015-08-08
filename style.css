@@ -1,0 +1,33 @@
+/*
+ Theme Name:   CCJ
+ Theme URI:    http://cocinandoconjuana.com
+ Description:  Child theme based on Cuisinier
+ Author:       hsnyc
+ Author URI:   http://hsnyc.co
+ Template:     Cuisinier
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  cuisinier-child
+*/
+
+/* Almost all CSS changes are edited via the admin panel*/
+
+@font-face {
+    font-family: 'Graun';
+    src: url('fonts/Graun.ttf') format('truetype');
+    src: url('fonts/Graun.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avera-Sans-Bold';
+    src: url('fonts/avera-sans-bld-webfont.eot');
+    src: url('fonts/avera-sans-bld-webfont.eot?#iefix') format('embedded-opentype');
+    src: url('fonts/avera-sans-bld-webfont.woff') format('woff');
+    src: url('fonts/avera-sans-bld-webfont.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
