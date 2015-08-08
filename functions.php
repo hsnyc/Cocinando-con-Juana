@@ -13,10 +13,10 @@ function theme_enqueue_styles() {
 function my_login_logo() { ?>
     <style type="text/css">
                
-		#login > h1 > a { width: 320px; height: 326px; }
+		#login > h1 > a { width: 300px; height: 170px; }
         body.login #login h1 a {
-            background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/images/sunnybiskits-login-image_320x326.png);  
-			background-size: 320px 326px;
+            background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/images/ccj-logo_web-v1_300x170.png);  
+			background-size: 300px 170px;
 			background-repeat: no-repeat;
 			padding-bottom: 10px;
         }
