@@ -4,7 +4,7 @@
  Description:  Child theme based on Cuisinier
  Author:       hsnyc
  Author URI:   http://hsnyc.co
- Template:     Cuisinier
+ Template:     cuisinier
  Version:      1.0.0
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
@@ -30,4 +30,16 @@
     src: url('fonts/avera-sans-bld-webfont.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
+}
+
+.filter-cats .icon-ensaladas:before{
+  content: "\e603";
+}
+
+.filter-cats .icon-postres:before{
+  content: "\e60d";
+}
+
+.filter-cats .icon-entradas:before{
+  content: "\e604";
 }
