@@ -1,0 +1,1049 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cuisinier v1.4.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-08 21:44-0400\n"
+"PO-Revision-Date: 2015-08-20 21:20:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:5
+#@ cuisinier
+msgctxt "error 404"
+msgid "Sorry! The Page You're Looking For Cannot Be Found"
+msgstr "¡Excusano! La página que estás buscando no se encuentra"
+
+#: 404.php:10
+#: tag.php:23
+#@ cuisinier
+msgctxt "error 404"
+msgid "Error 404"
+msgstr "Error 404"
+
+#: archive.php:9
+#: archive.php:11
+#: archive.php:13
+#: archive.php:15
+#@ cuisinier
+msgid "Archive: "
+msgstr "Archivo:"
+
+#: archive.php:30
+#@ cuisinier
+msgid "No posts to display"
+msgstr "No hay mensajes para mostrar"
+
+#: category.php:7
+#@ cuisinier
+msgid "Category Archive: "
+msgstr "Archivo de la categoría:"
+
+#: comments.php:4
+#@ cuisinier
+msgid "This post is password protected. Enter the password to view any comments "
+msgstr "Esta entrada está protegida. Introduzca la contraseña para ver los comentarios"
+
+#: comments.php:16
+#@ cuisinier
+msgctxt "blog"
+msgid "Comments"
+msgstr "Comentarios"
+
+#: comments.php:49
+#@ cuisinier
+msgctxt "comment-form"
+msgid "Leave a reply"
+msgstr "Deja una Respuesta"
+
+#: comments.php:51
+#@ cuisinier
+msgctxt "comment-form"
+msgid "Submit Comment"
+msgstr "Enviar comentario"
+
+#: content-blog.php:10
+#@ default
+msgctxt "cuisinier"
+msgid "Read More"
+msgstr "Leer más"
+
+#: content-single.php:14
+#@ default
+msgctxt "cuisinier"
+msgid "comments"
+msgstr "comentarios"
+
+#: content-single.php:26
+#: theme_config/views/dishes-single-view.php:51
+#@ default
+msgctxt "cuisinier"
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: content-single.php:34
+#@ cuisinier
+msgid "Categories"
+msgstr "Categorías"
+
+#: content-single.php:42
+#: theme_config/views/dishes-single-view.php:69
+#@ default
+msgctxt "cuisinier"
+msgid "Share"
+msgstr "Compartir"
+
+#: content-single.php:68
+#@ cuisinier
+msgid "Next page"
+msgstr "Pagina siguiente"
+
+#: content-single.php:69
+#@ cuisinier
+msgid "Previous page"
+msgstr "Pagina anterior"
+
+#: functions.php:251
+#@ cuisinier
+msgctxt "dashboard"
+msgid "Primary menu"
+msgstr "Menú Principal"
+
+#: functions.php:252
+#@ cuisinier
+msgctxt "dashboard"
+msgid "Footer menu"
+msgstr "Menú de pie de página"
+
+#: functions.php:311
+#: functions.php:368
+#@ cuisinier
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: functions.php:325
+#: functions.php:361
+#@ cuisinier
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando ser moderado."
+
+#: functions.php:398
+#@ cuisinier
+msgid "Blog Sidebar"
+msgstr "Barra lateral de el Blog"
+
+#: functions.php:400
+#@ cuisinier
+msgid "Blog Sidebar Area"
+msgstr "El área barra lateral de el Blog"
+
+#: functions.php:409
+#@ cuisinier
+msgid "Footer"
+msgstr "Pie de página"
+
+#: functions.php:411
+#@ cuisinier
+msgid "Footer Sidebar Area"
+msgstr "Área en el pie de página"
+
+#: functions.php:626
+#: functions.php:648
+#@ cuisinier
+msgid "Message successfully sent."
+msgstr "Mensaje enviado con éxito."
+
+#: functions.php:628
+#: functions.php:650
+#@ cuisinier
+msgid "Message could not be sent."
+msgstr "El mensaje no pudo ser enviado."
+
+#: functions.php:652
+#@ cuisinier
+msgid "Please fill all the fields"
+msgstr "Rellene todos los campos"
+
+#: functions.php:740
+#, php-format
+#@ cuisinier
+msgid "#%d (no title)"
+msgstr "#%d (Sin título)"
+
+#: header-main.php:32
+#: header-page.php:20
+#@ cuisinier
+msgid "theme logo"
+msgstr "logotipo del tema"
+
+#: nav-main.php:17
+#@ cuisinier
+msgid "Prev"
+msgstr "Anterior"
+
+#: nav-main.php:18
+#@ cuisinier
+msgid "Next"
+msgstr "Siguiente"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:226
+#: plugins/tgm-plugin-activation/register-plugins.php:89
+#@ tgmpa
+#@ tt-dashboard-metaboxes
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins Obligatorio"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:227
+#: plugins/tgm-plugin-activation/register-plugins.php:90
+#@ tgmpa
+#@ tt-dashboard-metaboxes
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:228
+#: plugins/tgm-plugin-activation/register-plugins.php:91
+#, php-format
+#@ tgmpa
+#@ tt-dashboard-metaboxes
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:229
+#@ tgmpa
+msgid "Something went wrong."
+msgstr "Algo salió mal."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:230
+#: plugins/tgm-plugin-activation/register-plugins.php:93
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente plugin: %1$s."
+msgstr[1] "Este tema requiere el siguiente plugin: %1$s."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:231
+#: plugins/tgm-plugin-activation/register-plugins.php:94
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda el siguiente plugin: %1$s."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:232
+#: plugins/tgm-plugin-activation/register-plugins.php:95
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Lo sentimos, pero Usted no tiene los permisos correctos para instalar el plugin %s. Póngase en contacto"
+msgstr[1] "Lo sentimos, pero Usted no tiene los permisos correctos para instalar el plugin %s. Póngase en contacto"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:233
+#: plugins/tgm-plugin-activation/register-plugins.php:96
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin requerido está inactivo: %1$s."
+msgstr[1] "El siguiente plugin requerido está inactivo: %1$s."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:234
+#: plugins/tgm-plugin-activation/register-plugins.php:97
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado es actualmente inactivo: %1$s."
+msgstr[1] "El siguiente plugin recomendado es actualmente inactivo: %1$s."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:235
+#: plugins/tgm-plugin-activation/register-plugins.php:98
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Lo sentimos, pero Usted no tiene los permisos correctos para activar el plugin %s. Póngase en contacto"
+msgstr[1] "Lo sentimos, pero Usted no tiene los permisos correctos para activar el plugin %s. Póngase en contacto"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:236
+#: plugins/tgm-plugin-activation/register-plugins.php:99
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin necesita ser actualizado a su última versión para asegurar la compatibilidad máxima con este tema: %1$s."
+msgstr[1] "El siguiente plugin necesita ser actualizado a su última versión para asegurar la compatibilidad máxima con este tema: %1$s."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:237
+#: plugins/tgm-plugin-activation/register-plugins.php:100
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Lo sentimos, pero Usted no tiene los permisos correctos para actualizar el plugin %s. Póngase en contacto"
+msgstr[1] "Lo sentimos, pero Usted no tiene los permisos correctos para actualizar el plugin %s. Póngase en contacto"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:238
+#: plugins/tgm-plugin-activation/register-plugins.php:101
+#@ tt-dashboard-metaboxes
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comience la instalación del plugin"
+msgstr[1] "Comience la instalación del plugin"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:239
+#@ tt-dashboard-metaboxes
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Instalando Plugin: %s"
+msgstr[1] "Instalando Plugin: %s"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:240
+#: plugins/tgm-plugin-activation/register-plugins.php:103
+#@ tgmpa
+#@ tt-dashboard-metaboxes
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins requeridos"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:241
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr "Volver al escritorio"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:242
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2107
+#: plugins/tgm-plugin-activation/register-plugins.php:104
+#@ tgmpa
+#@ tt-dashboard-metaboxes
+msgid "Plugin activated successfully."
+msgstr "Plugin Activado correctamente."
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1769
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:243
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se activó correctamente:"
+msgstr[1] "El siguiente plugin se activó correctamente:"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:244
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins han sido instalados y activados con éxito. %1$s"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:245
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:595
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2337
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr "Volver al Escritorio"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1281
+#@ tgmpa
+msgid "Private Repository"
+msgstr "Repositorio Privado"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1285
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr "Pre-Cargado"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1290
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr "Repositorio WordPress"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1293
+#@ tgmpa
+msgid "Required"
+msgstr "Requerido"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1293
+#@ tgmpa
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1296
+#@ tgmpa
+msgid "Not Installed"
+msgstr "No Instalado"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr "Instalado Pero No Activado"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1416
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Instale %2$s"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1438
+#, php-format
+#@ tgmpa
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1481
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "No existen plugins para instalar o activar. <a href=“%1$s” title=“Volver al escritorio”>Volver al escritorio</a>"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1497
+#@ tgmpa
+msgid "Plugin"
+msgstr "Plugin"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1498
+#@ tgmpa
+msgid "Source"
+msgstr "Fuente"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1499
+#@ tgmpa
+msgid "Type"
+msgstr "Tipo"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1500
+#@ tgmpa
+msgid "Status"
+msgstr "Estado"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1518
+#@ tgmpa
+msgid "Install"
+msgstr "Instalar"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1519
+#@ tgmpa
+msgid "Activate"
+msgstr "Activar"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1630
+#@ tgmpa
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para ser instalados en este momento."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1746
+#@ tgmpa
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para ser activados en este momento."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2090
+#@ tgmpa
+msgid "Install package not available."
+msgstr "Paquete de instalación no disponible."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2091
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Descargando el paquete de instalación desde <span class=“code”>%s</span>&#8230;"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2092
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr "Extrayendo el paquete&#8230;"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2093
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr "Instalando plugin&#8230;"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2094
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr "Error en la instalación de plugin"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2095
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado correctamente."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2106
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr "Error en la activación de plugin."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2229
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Se produjo un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2230
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s falló."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2234
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación se está iniciando. Puede tardar un poco en algunos servidores. Por favor, sea paciente."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2235
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalados y activados con éxito."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2235
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2242
+#@ tgmpa
+msgid "Show Details"
+msgstr "Ver Detalles"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2235
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2242
+#@ tgmpa
+msgid "Hide Details"
+msgstr "Ocultar Detalles"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2236
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones se han completado."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2237
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y Activando Plugin %1$s (%2$d/%3$d)"
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2241
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación se está iniciando. Puede tardar un poco en algunos servidores. Por favor, sea paciente."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2242
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2243
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones se han completado."
+
+#: plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2244
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#: plugins/tgm-plugin-activation/register-plugins.php:92
+#@ tt-dashboard-metaboxes
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#: plugins/tgm-plugin-activation/register-plugins.php:102
+#@ tt-dashboard-metaboxes
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Plugin instalado correctamente."
+msgstr[1] ""
+
+#: plugins/tgm-plugin-activation/register-plugins.php:105
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins instalados y activados con éxito. %s"
+
+#: search.php:15
+#@ cuisinier
+msgid "Search Results for "
+msgstr "Buscar resultados para"
+
+#: search.php:25
+#@ cuisinier
+msgid "No matching posts found"
+msgstr "No coincidentes mensajes encontrados"
+
+#: shortcodes.php:129
+#@ cuisinier
+msgid "View Blog Post"
+msgstr "Ver la entrada del blog"
+
+#: tag.php:8
+#@ cuisinier
+msgid "Tag Archive: "
+msgstr "Archivo de la etiqueta"
+
+#: tag.php:20
+#@ cuisinier
+msgid "No posts to display in "
+msgstr "No hay mensajes para mostrar"
+
+#: tesla_framework/core/tesla_slider.php:1236
+#: tesla_framework/core/tesla_slider.php:1249
+#@ tesla
+msgctxt "portfolio category order"
+msgid "Order"
+msgstr "Pedido"
+
+#: tesla_framework/core/tesla_slider.php:1238
+#: tesla_framework/core/tesla_slider.php:1252
+#@ tesla
+msgctxt "portfolio category order"
+msgid "Set the order in which the categories should be displayed."
+msgstr "Establecer el orden en el que las categorías se deben mostrar."
+
+#: tesla_framework/core/tesla_slider.php:1269
+#@ tesla
+msgctxt "portfolio category order column"
+msgid "Order"
+msgstr "Pedido"
+
+#: tesla_framework/core/teslaframework.php:41
+#@ TeslaFramework
+msgid "Simple Meta Box fields"
+msgstr "Simple campos de caja meta"
+
+#: tesla_framework/core/tt_contact_form.php:68
+#@ TeslaFramework
+msgid "From "
+msgstr "Desde"
+
+#: tesla_framework/core/tt_contact_form.php:68
+#@ TeslaFramework
+msgid " Contact Form "
+msgstr "Formulario de contacto"
+
+#: tesla_framework/core/tt_subscription.php:74
+#@ TeslaFramework
+msgid "Subscribed"
+msgstr "Suscrito"
+
+#: tesla_framework/core/tt_subscription.php:76
+#@ TeslaFramework
+msgid "Error"
+msgstr "Error"
+
+#: tesla_framework/core/tt_subscription.php:80
+#@ TeslaFramework
+msgid "MailChimp Error"
+msgstr "MailChimp Error"
+
+#: tesla_framework/core/tt_subscription.php:87
+#@ TeslaFramework
+msgid "No data received"
+msgstr "No se recibieron datos"
+
+#: tesla_framework/core/tt_subscription.php:115
+#@ TeslaFramework
+msgid "No API key for mailchimp"
+msgstr "Sin clave de API de MailChimp"
+
+#: tesla_framework/core/tt_subscription.php:129
+#@ TeslaFramework
+msgid "Not a valid mailchimp api key."
+msgstr "No es una clave de API de MailChimp válida."
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:250
+#@ tax-meta
+msgid "Delete this image"
+msgstr "Borrar esta imagen"
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:250
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:882
+#@ tax-meta
+msgid "Delete"
+msgstr "Borrar"
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:357
+#@ tax-meta
+msgid "Cannot delete file. Something's wrong."
+msgstr "No se puede eliminar el archivo. Algo esta mal."
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:582
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:629
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:438
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:477
+#: tesla_framework/views/admin.php:137
+#@ tax-meta
+#@ mmb
+#@ TeslaFramework
+msgid "Remove"
+msgstr "Eliminar"
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:595
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:450
+#@ tax-meta
+#@ mmb
+msgid "Add"
+msgstr "Añadir"
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:878
+#@ tax-meta
+msgid "Uploaded files"
+msgstr "Archivos subidos"
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:889
+#@ tax-meta
+msgid "Upload new files"
+msgstr "Subir nuevos archivos"
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:895
+#@ tax-meta
+msgid "Add more files"
+msgstr "Añadir más archivos"
+
+#: tesla_framework/extensions/Tax-meta-class/Tax-meta-class.php:947
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:804
+#@ tax-meta
+#@ apc
+msgid "Select a color"
+msgstr "Elegir Color"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:145
+#: tesla_framework/extensions/autoimport/autoimporter.php:153
+#: tesla_framework/extensions/autoimport/autoimporter.php:235
+#: tesla_framework/extensions/autoimport/autoimporter.php:239
+#: tesla_framework/extensions/autoimport/autoimporter.php:248
+#@ tt-dashboard-metaboxes
+msgid "Sorry, there has been an error."
+msgstr "Lo sentimos, se ha producido un error."
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:146
+#@ tt-dashboard-metaboxes
+msgid "The file does not exist, please try again."
+msgstr "El archivo no existe, por favor inténtalo de nuevo."
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:240
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "El archivo de exportación no se ha localizado en <code>%s</code> . Es probable que esto se deba a un problema de permisos."
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:256
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Este archivo WXR (versión %s) puede que no sea compatible con esta versión del importador. Por favor considera su actualización."
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:280
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "Fallo al importar el autor %s. Sus publicaciones serán atribuidas al usuario actual."
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:340
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "Error al crear un nuevo usuario para %s. Sus publicaciones se atribuirán al usuario actual."
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:391
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "Failed to import category %s"
+msgstr "Error al importar la categoría %s"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:431
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "Failed to import post tag %s"
+msgstr "Error al importar la etiqueta %s"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:477
+#: tesla_framework/extensions/autoimport/autoimporter.php:618
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "Failed to import %s %s"
+msgstr "Error al importar %s %s"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:503
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Error al importar &#8220;%s&#8221;: Tipo de publicación no válido %s"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:525
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; ya existe."
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:584
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Error al importar %s &#8220;%s&#8221;"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:749
+#@ tt-dashboard-metaboxes
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Elemento de menú ignorado por falta de slug"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:756
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Elemento de menú ignorado por slug no válido: %s"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:819
+#@ tt-dashboard-metaboxes
+msgid "Fetching attachments is not enabled"
+msgstr "La obtención de archivos adjuntos no está habilitada"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:832
+#@ tt-dashboard-metaboxes
+msgid "Invalid file type"
+msgstr "Tipo de archivo no válido"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:876
+#@ tt-dashboard-metaboxes
+msgid "Remote server did not respond"
+msgstr "El servidor remoto no respondió"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:882
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Servidor remoto devuelve error %1$d %2$s"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:889
+#@ tt-dashboard-metaboxes
+msgid "Remote file is incorrect size"
+msgstr "Archivo remoto tiene un tamaño incorrecto"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:894
+#@ tt-dashboard-metaboxes
+msgid "Zero size file downloaded"
+msgstr "El tamaño del archivo descargado es cero"
+
+#: tesla_framework/extensions/autoimport/autoimporter.php:900
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "Remote file is too large, limit is %s"
+msgstr "Archivo remoto es demasiado grande, el límite es %s"
+
+#: tesla_framework/extensions/autoimport/parsers.php:43
+#: tesla_framework/extensions/autoimport/parsers.php:75
+#: tesla_framework/extensions/autoimport/parsers.php:83
+#@ wordpress-importer
+msgid "There was an error when reading this WXR file"
+msgstr "Se produjo un error al leer este archivo WXR"
+
+#: tesla_framework/extensions/autoimport/parsers.php:44
+#@ wordpress-importer
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Los detalles se muestran arriba. El importador tratará ahora de nuevo con un analizador diferente…"
+
+#: tesla_framework/extensions/autoimport/parsers.php:87
+#: tesla_framework/extensions/autoimport/parsers.php:92
+#: tesla_framework/extensions/autoimport/parsers.php:283
+#: tesla_framework/extensions/autoimport/parsers.php:473
+#@ wordpress-importer
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Esto no parece ser un archivo WXR, número de versión WXR perdido/inválido"
+
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:1884
+#: tesla_framework/extensions/meta-box-class/my-meta-box-class.php:1892
+#@ TeslaFramework
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr "Lo sentimos, usted no puede cargar este tipo de archivo para este campo."
+
+#: tesla_framework/views/admin.php:21
+#@ TeslaFramework
+msgid "Documentation"
+msgstr "Documentación"
+
+#: tesla_framework/views/admin.php:24
+#@ TeslaFramework
+msgid "Support"
+msgstr "Soporte"
+
+#: tesla_framework/views/admin.php:27
+#@ TeslaFramework
+msgid "Latest News"
+msgstr "Últimas Noticias"
+
+#: tesla_framework/views/admin.php:32
+#@ TeslaFramework
+msgid "Framework "
+msgstr "Estructura"
+
+#: tesla_framework/views/admin.php:53
+#: tesla_framework/views/admin.php:81
+#: tesla_framework/views/admin.php:115
+#: tesla_framework/views/admin.php:157
+#: tesla_framework/views/options/button.php:5
+#: tesla_framework/views/options/image_upload.php:13
+#, php-format
+#@ tt-dashboard-metaboxes
+msgid "%s"
+msgstr "%s"
+
+#: tesla_framework/views/admin.php:155
+#@ TeslaFramework
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: tesla_framework/views/options/image_upload.php:15
+#@ tt-dashboard-metaboxes
+msgid "Upload Image"
+msgstr "Subir Imagen"
+
+#: tesla_framework/views/options/image_upload.php:17
+#@ tt-dashboard-metaboxes
+msgid "Remove Image"
+msgstr "Eliminar imagen"
+
+#: tesla_framework/views/options/image_upload.php:19
+#@ tt-dashboard-metaboxes
+msgid "Preview"
+msgstr "Vista Previa Publicación"
+
+#: tesla_framework/views/options/text.php:45
+#@ tt-dashboard-metaboxes
+msgid "Text Logo Preview"
+msgstr "Logotipo del texto de vista previa"
+
+#: theme_config/views/contact_form/select.php:16
+#@ sevenfold
+msgid "No Options Inserted"
+msgstr "No hay opciones para insertar"
+
+#: theme_config/views/contact_form/submit.php:5
+#@ cuisinier
+msgid "Sending Message"
+msgstr "Enviando el mensaje"
+
+#: theme_config/views/contact_form/submit.php:6
+#@ cuisinier
+msgid "Message Successfully Sent"
+msgstr "Mensaje enviado correctamente"
+
+#: theme_config/views/dishes-single-view.php:82
+#@ cuisinier
+msgid "You May Also Like"
+msgstr "También te puede interesar"
+
+#: theme_config/views/dishes-view.php:105
+#@ default
+msgctxt "cuisinier"
+msgid "Cook Time Icon"
+msgstr "Icono de Tiempo de Cocion"
+
+#: widgets/widget-links.php:10
+#@ cuisinier
+msgid "Shows your links."
+msgstr "Muestra tus enlaces."
+
+#: widgets/widget-links.php:55
+#: widgets/widget-recent.php:89
+#: widgets/widget-socials.php:64
+#: widgets/widget-subscribe.php:46
+#@ widgets
+msgid "Title:"
+msgstr "Título:"
+
+#: widgets/widget-recent.php:10
+#@ cuisinier
+msgid "Shows your recent posts."
+msgstr "Muestra tus últimos posts."
+
+#: widgets/widget-recent.php:61
+#@ default
+msgctxt "cuisinier"
+msgid "Time Icon"
+msgstr "Icono de Tiempo"
+
+#: widgets/widget-recent.php:91
+#@ widgets
+msgid "Number of Posts:"
+msgstr "Número de entradas:"
+
+#: widgets/widget-socials.php:10
+#@ cuisinier
+msgid "Follow Us."
+msgstr "Siguenos"
+
+#: widgets/widget-subscribe.php:10
+#@ cuisinier
+msgid "Subscribe to our newsletter."
+msgstr "Subscríbete a nuestro boletín."
+
+#: widgets/widget-twitter.php:9
+#@ cuisinier
+msgid "A list of latest tweets. Please configure twitter using under THEME menu => Subscription Tab."
+msgstr "Lista de últimos tweets. Por favor, configurar twitter usando menú de tema => ficha de suscripción."
+
+#: widgets/widget-twitter.php:47
+#@ cuisinier
+msgctxt "dashboard"
+msgid "Title:"
+msgstr "Título:"
+
+#: widgets/widget-twitter.php:48
+#@ cuisinier
+msgctxt "dashboard"
+msgid "Twitter user:"
+msgstr "El usuario de Twitter:"
+
+#: widgets/widget-twitter.php:50
+#@ cuisinier
+msgctxt "dashboard"
+msgid "Number of posts to show:"
+msgstr "Número de publicaciones a mostrar:"
+
+#: comments.php:50
+#@ cuisinier
+msgctxt "comment-form"
+msgid "Message"
+msgstr "Mensaje"
+
+#: functions.php:376
+#@ cuisinier
+msgid "at"
+msgstr "a"
+
+#: searchform.php:3
+#@ cuisinier
+msgid "Search"
+msgstr "Buscar"
+
+#: theme_config/views/dishes-single-view.php:43
+#@ cuisinier
+msgid "Rating:"
+msgstr "Clasificación:"
+
+#: theme_config/views/dishes-single-view.php:60
+#@ default
+msgctxt "cuisinier"
+msgid "Categories"
+msgstr ""
+
+#: widgets/widget-subscribe.php:32
+#@ cuisinier
+msgctxt "subscribe widget"
+msgid "Submit"
+msgstr "Enviar"
+
