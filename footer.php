@@ -20,7 +20,7 @@ $footer_back = is_archive() || is_404() && _go('back_footer') ? 'background-imag
         <div class="small-footer">
             <div class="container">
                 <div class="row aligncenter margin-top-50">
-                    <p>Copyright 2015 &copy; Cocinando con Juana. Developed by <a href="http://hsnyc.co" target="_blank">HSNYC</a>.</p>
+                    <p> 2015 &copy;CocinandoConJuana. Diseñado por <a href="http://hsnyc.co" target="_blank">HSNYC</a>. Servicio de hosting por <a href="http://hsny.co/get-siteground" target="_blank">SiteGround</a>.</p>
                 </div>
             </div>
         </div>
