@@ -43,14 +43,3 @@
 .filter-cats .icon-entradas:before{
   content: "\e604";
 }
-
-.wysija-submit-field { 
-    display: block;
-    background-color: #f39c12;
-    font-size: 15px;
-    font-weight: bold;
-    text-transform: uppercase;
-    color: #fff;
-    padding: 10px 40px;
-    margin-top: 20px;
-}
